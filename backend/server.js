@@ -3,8 +3,8 @@ const mongoose = require('mongoose');
 const app = require('./app');
 const linkController = require('./controllers/linkControllers');
 
-const PORT = process.env.PORT || 8000;
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/urlshortener';
+const PORT = process.env.PORT || 8003;
+const MONGODB_URI = process.env.MONGODB_URI;
 
 async function start() {
   try {
