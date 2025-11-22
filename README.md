@@ -18,22 +18,22 @@ Features
 
 🔗 URL Shortening
 
-Create short URLs instantly
-Optional custom code (6–8 characters)
-Backend generates unique codes automatically
+- Create short URLs instantly
+- Optional custom code (6–8 characters)
+- Backend generates unique codes automatically
 
 📊 Analytics & Stats
 
-Track total clicks
-See last clicked time
-Dedicated /code/:code stats page
+- Track total clicks
+- See last clicked time
+- Dedicated /code/:code stats page
 
 🗄 Dashboard
 
-List all shortened URLs
-Search by code or target URL
-Copy short link with one click
+- List all shortened URLs
+- Search by code or target URL
+- Copy short link with one click
+- Delete links instantly
+- Fully responsive (mobile + desktop)
 
-Delete links instantly
-
-Fully responsive (mobile + desktop)
+Deploy Link - https://tiny-link-eta.vercel.app/
